@@ -1,25 +1,35 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+description = "C++ Software developer"
+date = "2022-12-16"
+aliases = ["about-us", "about-me", "contact"]
+author = "Quentin Balland"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 
-Hugo makes use of a variety of open source projects including:
+Hello, my name is Quentin Balland, 29 years old.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+I am a french c++ developer currently living in Switzerland and working as a C++ software engineer.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+I like software development which made me want to begin this blog and go into development experimentation while sharing it with you. With the hope I can make people learn from my experience but mostly to learn from you all and get the better of your eventual comment about my content.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+I represent myself as a chocobo as I love the Final Fantasy serie plus. I got hooked into a private joke about using a rubber duck as talking partner to help you resolve your issues. I switched it into a chocobo and use it every day at work and at home 😀
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+I also love to draw, most of the chocobo and logo you will find on this blog are home made :p
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Hope to see you on [mastodon](https://mas.to/@freeyoursoul) / conferences 🙂
+
+
+## What is this blog about?
+
+Hello, this blog has for purpose to display my articles and experience gotten from conferences attendance plus my personal development experimentation.
+
+I am developping a MMORPG server game, the game in itself has no real interest, just the technologies and technique applied matters.
+
+I am planning on writing about my thought process and why I chose those technologies, those techniques, those architecture.
+
+But more importantly, why I keep changing my choice (because I do a lot).
+
+## Out of a Hiatus
+
+I did have a pretty lon hiatus on blogging this last past two years. I plan on remedy to this issue and continue blogging on a more regular basis.

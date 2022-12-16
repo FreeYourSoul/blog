@@ -10,10 +10,10 @@ pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
 
 [params]
-author = "Quentin Balland"
+author = "FreeYourSoul"
 description = "FreeYourSoul's developer blog"
 keywords = "blog,developer,personal"
-info = ["Developer", "Architect", "C++"]
+info = ["Developer", "C++"]
 avatarURL = "images/avatar.jpg"
 dateFormat = "January 2, 2023"
 since = 2022

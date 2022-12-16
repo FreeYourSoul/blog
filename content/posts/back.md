@@ -1,7 +1,9 @@
 ---
-date: 2022-12-16T22:58:26+01:00
+date: 2022-12-16
 title: "Back to bloging"
-
+tags:
+  - "personal"
+  
 draft: true
 ---
 
