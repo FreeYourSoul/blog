@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>personal on FreeYourSoul</title>
+    <link>http://www.freeyoursoul.github.io/blog/tags/personal/</link>
+    <description>Recent content in personal on FreeYourSoul</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 17 Dec 2022 00:07:40 +0100</lastBuildDate><atom:link href="http://www.freeyoursoul.github.io/blog/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Back to bloging</title>
+      <link>http://www.freeyoursoul.github.io/blog/posts/back/</link>
+      <pubDate>Sat, 17 Dec 2022 00:07:40 +0100</pubDate>
+      
+      <guid>http://www.freeyoursoul.github.io/blog/posts/back/</guid>
+      <description>Back to blogging  Link to heading   Hey! I finally found a glimpse of motivation to come back into blogging. About C++, architecture and other things. At first I may repost all my previously created blogs in this github page based blog, as I lost my previous website due to inactivity.
+I would like to thank some of you who supported me into going back into blogging. Some liked my blogs, made me very happy, and now I am back to write more.</description>
+    </item>
+    
+  </channel>
+</rss>

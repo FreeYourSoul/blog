@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FreeYourSoul</title>
+    <link>http://www.freeyoursoul.github.io/blog/</link>
+    <description>Recent content on FreeYourSoul</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 17 Dec 2022 00:07:40 +0100</lastBuildDate><atom:link href="http://www.freeyoursoul.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Back to bloging</title>
+      <link>http://www.freeyoursoul.github.io/blog/posts/back/</link>
+      <pubDate>Sat, 17 Dec 2022 00:07:40 +0100</pubDate>
+      
+      <guid>http://www.freeyoursoul.github.io/blog/posts/back/</guid>
+      <description>Back to blogging  Link to heading   Hey! I finally found a glimpse of motivation to come back into blogging. About C++, architecture and other things. At first I may repost all my previously created blogs in this github page based blog, as I lost my previous website due to inactivity.
+I would like to thank some of you who supported me into going back into blogging. Some liked my blogs, made me very happy, and now I am back to write more.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://www.freeyoursoul.github.io/blog/about/</link>
+      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.freeyoursoul.github.io/blog/about/</guid>
+      <description>Hello, my name is Quentin Balland, 29 years old.
+I am a french c++ developer currently living in Switzerland and working as a C++ software engineer.
+I like software development which made me want to begin this blog and go into development experimentation while sharing it with you. With the hope I can make people learn from my experience but mostly to learn from you all and get the better of your eventual comment about my content.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.freeyoursoul.github.io/blog/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.freeyoursoul.github.io/blog/contact/</guid>
+      <description>Follow me on mastodon
+You can find me on linkedin as well : https://ch.linkedin.com/in/quentin-balland-68316252</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://www.freeyoursoul.github.io/blog/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.freeyoursoul.github.io/blog/projects/</guid>
+      <description>Nothing to see here&amp;hellip; Move along!</description>
+    </item>
+    
+  </channel>
+</rss>
