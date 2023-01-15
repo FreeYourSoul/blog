@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on FreeYourSoul</title>
-    <link>http://www.freeyoursoul.github.io/blog/authors/</link>
+    <link>https://freeyoursoul.github.io/blog/authors/</link>
     <description>Recent content in Authors on FreeYourSoul</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://www.freeyoursoul.github.io/blog/authors/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://freeyoursoul.github.io/blog/authors/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
