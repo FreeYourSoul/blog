@@ -1,6 +1,6 @@
 ---
 date: "2019-04-29"
-title: "FyS : frst architecture"
+title: "FyS : first architecture"
 tags:
   - "freeyoursoul story"
   
