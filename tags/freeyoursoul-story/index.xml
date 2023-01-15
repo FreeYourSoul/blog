@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>freeyoursoul story on FreeYourSoul</title>
+    <link>https://freeyoursoul.github.io/blog/tags/freeyoursoul-story/</link>
+    <description>Recent content in freeyoursoul story on FreeYourSoul</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 29 Apr 2019 00:07:40 +0100</lastBuildDate><atom:link href="https://freeyoursoul.github.io/blog/tags/freeyoursoul-story/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FyS : frst architecture</title>
+      <link>https://freeyoursoul.github.io/blog/posts/fys_2_first_architecture/</link>
+      <pubDate>Mon, 29 Apr 2019 00:07:40 +0100</pubDate>
+      
+      <guid>https://freeyoursoul.github.io/blog/posts/fys_2_first_architecture/</guid>
+      <description>The First architecture part-1  Link to heading   Data-Oriented Design  Link to heading   We directly begin with one of the topics I took most of my time working on. For the people not familiar with Data Oriented Design (DoD), I will try explaining it in this post. But I will also give several links to content that are, I think, needed in order to grasp the importance and power of DoD in C++.</description>
+    </item>
+    
+    <item>
+      <title>FyS : introduction and idea</title>
+      <link>https://freeyoursoul.github.io/blog/posts/fys_1_intro_idea/</link>
+      <pubDate>Sat, 20 Apr 2019 00:07:40 +0100</pubDate>
+      
+      <guid>https://freeyoursoul.github.io/blog/posts/fys_1_intro_idea/</guid>
+      <description>FyS : introduction and idea  Link to heading   What is FreeYourSoul concept, where did the idea come from ?  Link to heading   Basically, the idea was just to have a big project, that would force me to cover and explore multiple subjects into depth, and to improve in a lot of different aspect of software engineering and in the C++ language itself. The project began in late 2017, and I wanted to try the new features of the C++ standard.</description>
+    </item>
+    
+  </channel>
+</rss>
