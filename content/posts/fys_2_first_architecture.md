@@ -1,5 +1,5 @@
 ---
-date: "2019-04-29T00:07:40+01:00"
+date: "2019-04-29"
 title: "FyS : frst architecture"
 tags:
   - "freeyoursoul story"

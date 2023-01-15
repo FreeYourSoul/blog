@@ -1,5 +1,5 @@
 ---
-date: "2019-05-20T00:07:40+01:00"
+date: "2019-05-20"
 title: "conference report : ACCU2019"
 tags:
   - "conference"

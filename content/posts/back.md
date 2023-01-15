@@ -1,5 +1,5 @@
 ---
-date: "2022-12-17T00:07:40+01:00"
+date: "2022-12-17"
 title: "Back to bloging"
 tags:
   - "personal"

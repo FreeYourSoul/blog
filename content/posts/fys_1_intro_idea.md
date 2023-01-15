@@ -1,5 +1,5 @@
 ---
-date: "2019-04-20T00:07:40+01:00"
+date: "2019-04-20"
 title: "FyS : introduction and idea"
 tags:
   - "freeyoursoul story"
