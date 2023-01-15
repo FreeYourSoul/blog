@@ -1,3 +1,50 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on FreeYourSoul</title><link>https://freeyoursoul.github.io/blog/posts/</link><description>Recent content in Posts on FreeYourSoul</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://freeyoursoul.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://freeyoursoul.github.io/blog/posts/conf_report_accu_2019/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://freeyoursoul.github.io/blog/posts/conf_report_accu_2019/</guid><description>Conference Report: ACCU 2019 Link to heading I had the pleasure to attend to the ACCU2019 in Bristol which was my first cpp centred conference (the first of a long series I hope :p) and it was amazing in a different aspect.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on FreeYourSoul</title>
+    <link>https://freeyoursoul.github.io/blog/posts/</link>
+    <description>Recent content in Posts on FreeYourSoul</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 17 Dec 2022 00:07:40 +0100</lastBuildDate><atom:link href="https://freeyoursoul.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Back to bloging</title>
+      <link>https://freeyoursoul.github.io/blog/posts/back/</link>
+      <pubDate>Sat, 17 Dec 2022 00:07:40 +0100</pubDate>
+      
+      <guid>https://freeyoursoul.github.io/blog/posts/back/</guid>
+      <description>Back to blogging  Link to heading   Hey! I finally found a glimpse of motivation to come back into blogging. About C++, architecture and other things. At first I may repost all my previously created blogs in this github page based blog, as I lost my previous website due to inactivity.
+I would like to thank some of you who supported me into going back into blogging. Some liked my blogs, made me very happy, and now I am back to write more.</description>
+    </item>
+    
+    <item>
+      <title>conference report : ACCU2019</title>
+      <link>https://freeyoursoul.github.io/blog/posts/conf_report_accu_2019/</link>
+      <pubDate>Mon, 20 May 2019 00:07:40 +0100</pubDate>
+      
+      <guid>https://freeyoursoul.github.io/blog/posts/conf_report_accu_2019/</guid>
+      <description>Conference Report: ACCU 2019  Link to heading   I had the pleasure to attend to the ACCU2019 in Bristol which was my first cpp centred conference (the first of a long series I hope :p) and it was amazing in a different aspect.
 It is a 4 days conference that occurs every year between March and April in the Marriott hotel in Bristol.
-Amazing people, very inclusive and easy to talk to everyone!</description></item></channel></rss>
+Amazing people, very inclusive and easy to talk to everyone!</description>
+    </item>
+    
+    <item>
+      <title>FyS : frst architecture</title>
+      <link>https://freeyoursoul.github.io/blog/posts/fys_2_first_architecture/</link>
+      <pubDate>Mon, 29 Apr 2019 00:07:40 +0100</pubDate>
+      
+      <guid>https://freeyoursoul.github.io/blog/posts/fys_2_first_architecture/</guid>
+      <description>The First architecture part-1  Link to heading   Data-Oriented Design  Link to heading   We directly begin with one of the topics I took most of my time working on. For the people not familiar with Data Oriented Design (DoD), I will try explaining it in this post. But I will also give several links to content that are, I think, needed in order to grasp the importance and power of DoD in C++.</description>
+    </item>
+    
+    <item>
+      <title>FyS : introduction and idea</title>
+      <link>https://freeyoursoul.github.io/blog/posts/fys_1_intro_idea/</link>
+      <pubDate>Sat, 20 Apr 2019 00:07:40 +0100</pubDate>
+      
+      <guid>https://freeyoursoul.github.io/blog/posts/fys_1_intro_idea/</guid>
+      <description>FyS : introduction and idea  Link to heading   What is FreeYourSoul concept, where did the idea come from ?  Link to heading   Basically, the idea was just to have a big project, that would force me to cover and explore multiple subjects into depth, and to improve in a lot of different aspect of software engineering and in the C++ language itself. The project began in late 2017, and I wanted to try the new features of the C++ standard.</description>
+    </item>
+    
+  </channel>
+</rss>
